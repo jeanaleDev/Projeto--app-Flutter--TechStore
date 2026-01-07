@@ -71,11 +71,6 @@ Este projeto foi desenvolvido com foco em:
 
 ---
 
-## 📷 Screenshots
-*(adicione prints do app aqui)*
-
----
-
 ## 👨‍💻 Autor
 
 **Jean Alexandre**  
